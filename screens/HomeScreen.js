@@ -107,7 +107,7 @@ export default class HomeScreen extends Component {
   }
 
   componentDidMount(){
-    this.getData()
+    // this.getData()
   }
 
   componentDidUpdate(){
